@@ -1,21 +1,13 @@
-// index.js - purpose and description here
-// Author: Your Name
-// Date:
+// Snake
+// An implementation of the game
+// Author: Bao Hy Dang <bdang9@ucsc.edu>
+// April 2024
 
-// Constants
+//"Snake game task lists"
+//Print the map 
+//Accept user’s input
+//Move the snack
+//Analyze actions
+  //If impact with apple, make snake longer
+  //If impact with walls or itself, game over
 
-// Functions
-
-// this is an example function and this comment tells what it doees and what parameters are passed to it.
-function myFunction(param1, param2) {
-  // some code here
-  // return results;
-}
-
-function main() {
-  console.log("Main function started.");
-  // the code that makes everything happen
-}
-
-// let's get this party started
-main();
