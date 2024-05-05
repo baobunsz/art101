@@ -1,0 +1,25 @@
+
+#content {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 1px #ac82c2;
+  background-color: #9065a9;
+}
+
+
+
+
+h1 {
+  color: #cbace0;
+  font-family: "Calibri";
+  font-size: 200%;
+}
+
+
+
+
+p {
+  font-family: "Calibri";
+  text-indent: 20px;
+  margin-left: 10px;
+}
