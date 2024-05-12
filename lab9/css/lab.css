@@ -1,0 +1,26 @@
+#content {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 1px #394075;
+  background-color: #cf6d27;
+}
+
+h1 {
+  color: #191b82;
+  font-family: "Papyrus";
+  font-size: 200%;
+}
+
+
+p {
+  font-family: "Papyrus";
+  text-indent: 20px;
+  margin-left: 10px;
+}
+
+.special-section {
+  font-family: "Calibri";
+  background-color: rgb(228, 128, 145);
+  font-weight: bold;
+  border: dotted 5px rgb(20, 171, 217);
+}
