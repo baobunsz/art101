@@ -11,7 +11,7 @@
 function getNameAndSort() {
     const userName = window.prompt("Hi. Please tell me your name so I can fix it.");
     //console.log("userName =", userName);
-    var nameArray = userName.split('').sort().join('');
+    let nameArray = userName.split('').sort().join('');
     //console.log("nameArray =", nameArray);
     return nameArray;
     }
