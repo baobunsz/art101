@@ -2,7 +2,7 @@
 // Created: 23 April
 
 // Define Variables
-myTransport = ["Tesla X", "bus", "Amtrak train", "walk"];
+myTransport = ["Tesla X"," bus", " Amtrak train", " walk"];
 
 // create an object for my main ride
 myMainRide = {
