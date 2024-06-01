@@ -1,0 +1,24 @@
+#content {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: solid 1px #e06363;
+  background-color: #8a3767;
+}
+
+h1 {
+  color: #570f3b;
+  font-family: "Comic Sans";
+  font-size: 200%;
+}
+
+
+p {
+  font-family: "Comic Sans";
+  text-indent: 20px;
+  margin-left: 10px;
+}
+
+#output {
+  font-family: "Papyrus";
+  font-size: 200%;
+}
